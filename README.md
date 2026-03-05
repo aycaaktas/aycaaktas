@@ -65,28 +65,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 ![CouchDB](https://img.shields.io/badge/CouchDB-red)
 
----
-
-# 🚀 Highlight Projects
-
-### 🌿 Plant Identification using Faster R-CNN
-Deep learning pipeline for plant species detection developed for the **PlantCLEF 2024 competition**.
-
-### 🧠 LLM vs ML Text Classification
-Comparative study of **Llama-3 8B vs classical ML models** using TF-IDF + Logistic Regression.
-
-### 📍 Indoor Localization using Camera Images
-Deep learning pipeline using **PoseNet and AlexNet** trained on the **Microsoft 7-Scenes dataset**.
-
-### 📊 ChatGPT Grade Prediction Model
-Machine learning system predicting homework grades from **ChatGPT interaction history**.
-
----
-
-# 📊 GitHub Stats
-
-![Ayca's GitHub stats](https://github-readme-stats.vercel.app/api?username=aycaaktas&show_icons=true&theme=radical)
-
----
 
 ⭐ Always interested in **AI, ML and Data Science projects**
