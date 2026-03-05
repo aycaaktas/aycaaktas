@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ayça Elif Aktaş
 
 💻 Junior Software Engineer | Machine Learning & AI Enthusiast  
-🎓 B.S. in Computer Science & Engineering – Sabancı University  
+🎓 B.S. in Computer Science & Engineering – Sabanci University  
 
 ---
 
@@ -38,9 +38,13 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-orange?logo=scikit-learn)
+![Scikit-Image](https://img.shields.io/badge/Scikit--Image-orange)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)
+![Tableau](https://img.shields.io/badge/Tableau-blue)
 
 ---
 
@@ -53,9 +57,11 @@
 
 ### Backend & Systems
 ![Spring](https://img.shields.io/badge/Spring-green?logo=spring)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![GCP](https://img.shields.io/badge/GoogleCloud-blue?logo=googlecloud)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-blue?logo=googlecloud)
 
 ---
 
@@ -64,6 +70,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 ![CouchDB](https://img.shields.io/badge/CouchDB-red)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+
+---
+
+### Development Tools
+![Anaconda](https://img.shields.io/badge/Anaconda-green?logo=anaconda)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
 
 
 ⭐ Always interested in **AI, ML and Data Science projects**
